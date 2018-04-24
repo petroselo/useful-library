@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/kaijunge/Documents/Other/coding\ challenges\ tools/coding\ challenges\ tools/main.cpp \
-  /Users/kaijunge/Documents/Other/coding\ challenges\ tools/coding\ challenges\ tools/Functions.hpp
+  /Users/kaijunge/Documents/Programming/Adhom/useful-library/Kai's\ c++\ stuff/coding\ challenges\ tools/main.cpp \
+  /Users/kaijunge/Documents/Programming/Adhom/useful-library/Kai's\ c++\ stuff/coding\ challenges\ tools/Functions.hpp

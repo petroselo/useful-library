@@ -15,6 +15,8 @@ int main(){
     func fx;
     
     fx.CheckPrime(311);
+    fx.CountPrime(1, 500);
+    fx.LCM(6, 3);
     return 0;
 }
 
